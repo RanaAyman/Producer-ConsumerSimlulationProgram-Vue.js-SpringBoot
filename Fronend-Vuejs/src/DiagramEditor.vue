@@ -13,6 +13,7 @@
     <VButton class="btn btn2" @click="end"><i class="fas fa-stop"></i> &nbsp; End</VButton>
     &nbsp;
     &nbsp;
+    //<p>test</p>
     <i class="fas fa-sitemap"></i>
     &nbsp;
     <VInput class="vinput"
